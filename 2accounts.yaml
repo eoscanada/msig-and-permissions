@@ -10,3 +10,5 @@ accounts:
     permission: active
   weight: 1
 ---
+
+// Remember to ensure that they keys are listed in alpha-numerical order
