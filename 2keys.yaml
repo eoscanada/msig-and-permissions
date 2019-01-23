@@ -8,3 +8,5 @@ keys:
   weight: 1
   permission: active
 ---
+
+// Remember to ensure that they keys are listed in alpha-numerical order
