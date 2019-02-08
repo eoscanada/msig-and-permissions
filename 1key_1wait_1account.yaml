@@ -14,3 +14,6 @@ accounts:
     permission: active
   weight: 1
 ---
+
+The above example would be used if you wanted to create a custom permission structure that included a combination of keys,
+waits, and accounts.
