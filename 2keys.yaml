@@ -9,4 +9,6 @@ keys:
   permission: active
 ---
 
-// Remember to ensure that they keys are listed in alpha-numerical order
+The above example would be used if you wanted to create a custom permission structure that included multiple keys.
+
+Remember to ensure that they keys are listed in alpha-numerical order.
