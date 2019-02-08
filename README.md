@@ -1,6 +1,6 @@
 # Multisig and Permissions
 
-In this repository, we will provide examples of yaml files that can be used to craft a custom permission structure for your EOSIO account. 
+In this repository, we will provide examples of yaml files that can be used to craft a custom permission structure for your EOSIO account. There is also a walkthrough on how to collect signatures using [eosc](https://eosc.app) and the `eosio.msig` contract.
 
 To help further your knowledge around msig and permissions, be sure to read through our series "Multisig and Permissions on EOSIO - a Comprehensive Guide"
 
