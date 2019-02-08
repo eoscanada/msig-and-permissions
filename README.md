@@ -6,6 +6,6 @@ To help further your knowledge around msig and permissions, be sure to read thro
 
 1. [An Overview of Multisig and Permissions on EOSIO](https://www.eoscanada.com/en/an-overview-of-multisig-and-permissions-on-eosio)
 2. [Using eosc to Update Your Account’s Authority Structure]()
-3. [Satisfying a Multisig Permission]()
-4. [Nested Permissions and Linkauth]()
-5. [Gathering Signatures for an Msig]()
+3. [Satisfying a Multisig Permission]
+4. [Nested Permissions and Linkauth]
+5. [Gathering Signatures for an Msig]
