@@ -9,3 +9,5 @@ waits:
   weight: 1
   permission: active
 ---
+
+The above example would be used if you wanted to create a permission structure that included both keys and waits.
